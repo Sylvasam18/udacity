@@ -16,4 +16,4 @@ Getting the server running on your local machine takes only a few steps:
 
 ## Contributing
 
-We love receiving pull requests! For specifics on how to contribute to this project, check out the [contributing file](CONTRIBUTING.md).
+We love receiving pull requests! For specifics on how to contribute to this project, check out the [contributing file](CONTRIBUTING.md)
